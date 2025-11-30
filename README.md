@@ -6,3 +6,5 @@ Strong Lottery Ticket Hypothesis (SLTH):
 
 Until now, no consistent method has existed to reliably identify these subnetworks.
 We present a framework that uncovers the lottery ticket every time.
+
+Paper "Winning the Lottery Every Time" to be submitted
