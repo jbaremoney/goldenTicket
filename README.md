@@ -1,5 +1,3 @@
-NOTE: Github's quality has degraded in the recent years, and therefore you will likely have to download/clone files to view them. 
-
 Lottery Ticket Hypothesis (LTH):
 “A randomly initialized neural network contains a sparse subnetwork (a winning ticket) that, when trained in isolation from its original initialization, can achieve performance comparable to the full network.”
 
