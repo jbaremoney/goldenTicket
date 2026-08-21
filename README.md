@@ -7,6 +7,6 @@ Strong Lottery Ticket Hypothesis (SLTH):
 The challenge is finding these subnetworks.
 While their existence has been demonstrated empirically and theoretically, reliably extracting strong tickets has remained an open problem since their existence was proven.
 
-We present a framework that reliably uncovers these hidden subnetworks.
+We present a framework that reliably uncovers these hidden subnetworks in practical runtime.
 
 Paper "Winning the Lottery Every Time" under review NeurIPS 2026
